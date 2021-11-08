@@ -1,5 +1,5 @@
 #
-#
+# https://fernandofreitasalves.com/data-scraping-com-python-beautiful-soup/
 #
 #URL http://www.buscape.com.br/pesquise-uma-loja.html?pg=1
 #from 1 to 21265
