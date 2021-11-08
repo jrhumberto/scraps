@@ -1,6 +1,6 @@
 #
 # https://medium.com/@jb.ranchana/web-scraping-with-selenium-in-python-amazon-search-result-part-2-14831bb945e6
-#
+# https://github.com/ranchana-k/amazon-scraping-search-result/blob/main/run.py
 #
 import sqlite3
 
