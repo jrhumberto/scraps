@@ -1,5 +1,5 @@
 #
-#
+# https://python.plainenglish.io/searching-for-text-in-those-annoying-pdfs-d95b6dc7a055
 #
 result_list = []
 reader = PyPDF2.PdfFileReader(file)
