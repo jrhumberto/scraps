@@ -1,5 +1,5 @@
 #
-# https://fernandofreitasalves.com/data-scraping-com-python-beautiful-soup/?fbclid=IwAR0ASxkwHr68MlxqQXnoIvmFFUqr4jcKgPVusAVziCQwOa6oAaqWHJWPIiE
+# https://fernandofreitasalves.com/data-scraping-com-python-beautiful-soup/
 #
 import requests
 import bs4
